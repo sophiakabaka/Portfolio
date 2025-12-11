@@ -1,6 +1,3 @@
-# Sophia Kabaka — Portfolio
-
-This repository contains the source code for my personal portfolio website, showcasing web development projects, including full-stack applications built with PHP, MySQL, JavaScript, HTML, and CSS.
 
 ## Live Demo
 [View My Portfolio](https://sophiakabaka.github.io/Portfolio/)
